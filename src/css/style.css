@@ -55,7 +55,7 @@
         /* Seção Principal */
         .hero {
             height: 100vh;
-            background:url('./img/torres-barbearia-por-assinatura-belo-horizonte-1024x536\ 1.png'); /* Usando a imagem da barbearia */
+            background:url('./img/torres-barbearia-por-assinatura-belo-horizonte-1024x536/ 1.png'); /* Usando a imagem da barbearia */
             background-size: cover;
             background-position: center;
             display: flex;
